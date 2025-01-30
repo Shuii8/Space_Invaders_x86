@@ -1,6 +1,6 @@
 # Space_Invaders_x86
 
-#Puedes usar este código libremente, siempre y cuando se dé crédito.
+#Puedes usar este código libremente, siempre y cuando se de crédito.
 
 # En este proyecto, se utiliza la arquitectura CISC x86 64 y su lenguaje ensamblador. Al desarrollar el juego “Space Invaders” utilizando el lenguaje ensamblador, la consola bash y los servicios del sistema operativo Linux. Los gráficos del juego son en modo texto a través de la consola Bash.
 
